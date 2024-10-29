@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <!-- Thomas Waterman Wood-->
+    <string name="art_1_artist_name"> Thomas Waterman Wood</string>
+    <string name="art_1_artist_info">American, 1823–1903</string>
+    <string name="art_1_title">Corythaix Leucolopha</string>
+    <string name="art_1_year">1871</string>
+    <string name="art_1_description">Corythaix Leucolopha by Thomas Waterman Wood </string>
+    <string name="art_1_artist_bio"> Thomas Waterman Wood was an American painter born in Montpelier, Vermont.
+
+Thomas Waterman Wood\s father, John Wood, came to Montpelier from Lebanon, New Hampshire in 1814. The Wood family was of Puritan descent, and it was from Lebanon that John Wood, the father of the artist, married his wife Mary Waterman.
+
+During Wood\s youth, Montpelier was not likely to inspire a man to paint. It was a small town of practical people, lacking in the means of art culture and instruction in art. The hills and valleys, however, were beautiful, filled at all seasons with a wonderful light, and these had and continued to have for Wood an inspiration and influence throughout his life.
+
+When fortune permitted, Wood went to Boston and studied for a short time in the studio of Chester Harding, a portrait painter.
+
+It may be that his reputation as an artist will rest upon his figure pictures, although his very numerous portrait paintings involved much of the effort of his life and are most certainly characterized but simple and strong composition, great technical execution and a masterful use of colors. It may also follow that he will yet achieve his most memorable honors from the interpretations which he has made of great paintings, but from the stand point of those whose minds and hearts are won by considerations of local history the highest interest will be assigned to works in which Wood included characters from his native place.
+    </string>
+
+
+    <!-- Maxfield Parrish-->
+    <string name="art_2_artist_name"> Maxfield Parrish</string>
+    <string name="art_2_artist_info">American, 1870 – 1966</string>
+    <string name="art_2_title">Jason and His Teacher</string>
+    <string name="art_2_year">1909</string>
+    <string name="art_2_description">Jason and His Teacher by Maxfield Parrish </string>
+    <string name="art_2_artist_bio">Maxfield Parrish was an American painter and illustrator active in the first half of the 20th century. He is known for his distinctive saturated hues and idealized neo-classical imagery. His career spanned fifty years and was wildly successful: his painting Daybreak (1922) is the most popular art print of the 20th century.
+
+Maxfield Parrish was born in Philadelphia, Pennsylvania, to painter and etcher Stephen Parrish and Elizabeth Bancroft. His given name was Frederick Parrish, but he later adopted Maxfield, his paternal grandmother\s maiden name, as his middle, then finally as his professional name.
+Parrish entered into an artistic career that lasted for more than half a century, and which helped shape the Golden Age of illustration and American visual arts. During his career, he produced almost 900 pieces of art including calendars, greeting cards, and magazine covers. Parrish\s early works were mostly in black and white.
+
+In 1885, his work was on the Easter edition of Harper\s Bazaar. He also did work for other magazines like Scribner\s Magazine. He also illustrated a children\s book in 1897, Mother Goose in Prose written by L. Frank Baum. By 1900, Parrish was already a member of the Society of American Artists.
+    </string>
+
+    <!-- Mikhail Mikhaĭlovich Cheremnykh-->
+    <string name="art_3_artist_name"> Mikhail Mikhaĭlovich Cheremnykh</string>
+    <string name="art_3_artist_info">Russian, 1890–1962</string>
+    <string name="art_3_title">Russkii revoliutsionnyi plakat Pl.46</string>
+    <string name="art_3_year">1925</string>
+    <string name="art_3_description">Jason and His Teacher by Maxfield Parrish </string>
+    <string name="art_3_artist_bio">A native of Siberia, Mikhail Mikhailovich Cheremnykh relocated to Moscow in 1911 to study with Il\'ia Mashkov, a painter in the avant-garde Jack of Diamonds group. From 1911 to 1917 he studied with Konstantin Korovin and Sergei Malutin at MUZhViZ. In 1919 he established the ROSTA studio in Moscow, for which he served as artistic director until 1922, when he cofounded the satirical magazine Krokodil, with which he would remain associated until his death.
+
+He was active as a book illustrator and from 1939 to 1941 worked as the set designer for both the Leningrad Academic Maly Opera Theater (Malegot) and the State Theater of Opera and Ballet of the Belorusian Soviet Socialist Republic in Minsk. When war broke out in 1941, he helped organize the TASS studio in Moscow, designing its first poster in June of that year and contributing over forty more compositions over the course of its existence. In 1942 he was awarded the Stalin Prize. In 1952 he received the honorific title People’s Artist of the Russian Soviet Federative Socialist Republic.
+    </string>
+
+    <!-- James Ensor-->
+    <string name="art_4_artist_name"> James Ensor</string>
+    <string name="art_4_artist_info">Belgian, 1860–1949</string>
+    <string name="art_4_title">Demons Teasing Me</string>
+    <string name="art_4_year">1898</string>
+    <string name="art_4_description">Demons Teasing Me by James Ensor </string>
+    <string name="art_4_artist_bio"> James Sidney Edouard, Baron Ensor was a Belgian painter and printmaker, an important influence on expressionism and surrealism who lived in Ostend for most of his life. He was associated with the artistic group Les XX.
+
+Ensor\s father, James Frederic Ensor, born in Brussels to English parents, was a cultivated man who studied engineering in England and Germany. Ensor\'s mother, Maria Catherina Haegheman, was Belgian. Ensor himself lacked interest in academic study and left school at the age of fifteen to begin his artistic training with two local painters. From 1877 to 1880, he attended the Académie Royale des Beaux-Arts in Brussels, where one of his fellow students was Fernand Khnopff. Ensor first exhibited his work in 1881. From 1880 until 1917, he had his studio in the attic of his parents\' house. His travels were very few: three brief trips to France and two to the Netherlands in the 1880s, and a four-day trip to London in 1892.
+
+During the late 19th century, much of Ensor\'s work was rejected as scandalous, particularly his painting Christ\'s Entry Into Brussels in 1889 (1888–89). The Belgium art critic Octave Maus famously summed up the response from contemporaneous art critics to Ensor\'s innovative (and often scathingly political) work: \"Ensor is the leader of a clan. Ensor is the limelight. Ensor sums up and concentrates certain principles which are considered to be anarchistic. In short, Ensor is a dangerous person who has great changes. … He is consequently marked for blows. It is at him that all the harquebuses are aimed. It is on his head that are dumped the most aromatic containers of the so-called serious critics.\" Some of Ensor\'s contemporaneous work reveals his defiant response to this criticism. For example, the 1887 etching \"Le Pisseur\" depicts the artist urinating on a graffitied wall declaring (in the voice of an art critic) \"Ensor est un fou" or \"Ensor is a Madman.\"
+
+Ensor\'s paintings continued to be exhibited and he gradually won acceptance and acclaim. In 1895 his painting The Lamp Boy (1880) was acquired by the Royal Museums of Fine Arts of Belgium in Brussels, and he had his first solo exhibition in Brussels. By 1920 he was the subject of major exhibitions; in 1929 he was named a Baron by King Albert, and was the subject of the Belgian composer Flor Alpaerts\'s James Ensor Suite; and in 1933 he was awarded the band of the Légion d\'honneur. Alfred H. Barr, Jr., the founding director of the Museum of Modern Art in New York, after considering Ensor\'s 1887 painting Tribulations of Saint Anthony (now in MoMAs collection), declared Ensor the boldest painter working at that time.
+
+Even in the first decade of the 20th century, however, Ensor\'s production of new works was diminishing, and he increasingly concentrated on music—although he had no musical training, he was a gifted improviser on the harmonium, and spent much time performing for visitors. Against the advice of friends, he remained in Ostend during World War II despite the risk of bombardment. In his old age, he was an honored figure among Belgians, and his daily walk made him a familiar sight in Ostend. He died there after a short illness, on 19 November 1949.
+    </string>
+
+    <!-- Otto Muller-->
+    <string name="art_5_artist_name"> Otto Muller</string>
+    <string name="art_5_artist_info">German, 1874–1930</string>
+    <string name="art_5_title">Zigeuner-Liebespaar 2</string>
+    <string name="art_5_year">1921</string>
+    <string name="art_5_description">Zigeuner-Liebespaar 2 by Otto Muller </string>
+    <string name="art_5_artist_bio"> Otto Müller was a German painter and printmaker of the Die Brücke expressionist movement.
+
+Mueller was born in Liebau (now Lubawka, Kamienna Góra County), Kreis Landeshut, Silesia. Between 1890 and 1892 he was trained in lithography in Görlitz and Breslau. From 1894 to 1896 he studied at the Academy of Fine Arts in Dresden and continued his study in Munich during 1898. He left Munich\'s academy after Franz von Stuck classified him as untalented.
+
+His early works are influenced by impressionism, Jugendstil and Symbolism. When he settled to Berlin in 1908, his style became more expressionist. During this time there were meetings with Wilhelm Lehmbruck, Rainer Maria Rilke and Erich Heckel. In 1910, he joined \"Die Brücke\", a Dresden-based group of Expressionist artists. He was member of the group until it disbanded in 1913 due to artistic differences. At the same time Mueller also had contact with the artists group \Der Blaue Reiter\.
+
+During World War I he fought as a German soldier in France and Russia. After the war he became a professor at the academy of arts (Akademie der Bildenden Kunste) in Breslau where he taught until his death on 24 September 1930. Johnny Friedlaender and Isidor Ascheim were among his pupils there.
+
+In 1937 the Nazis seized 357 of his works from German museums, since the pictures were considered to be degenerate art.
+
+Mueller was one of the most lyrical of German expressionist painters. The main topic of Muellers works is the unity of humans and nature; his paintings emphasize a harmonious simplification of form, colour and contours. He is known especially for his characteristic paintings of nudes and Romani women; his nickname was \"Gypsy Mueller\" and his mother was perhaps Romani. The medium he preferred for his paintings was distemper on coarse canvas, which produced a mat surface. Altogether his printmaking amounted to 172 prints, nearly all of them lithographs, but including a few woodcuts and etchings.
+    </string>
+
+    <!-- Elihu Vedder-->
+    <string name="art_6_artist_name"> Elihu Vedder</string>
+    <string name="art_6_artist_info">American, 1836–1923</string>
+    <string name="art_6_title">Muse of Tragedy </string>
+    <string name="art_6_year">1899</string>
+    <string name="art_6_description">Muse of Tragedy  by Elihu Vedder</string>
+    <string name="art_6_artist_bio"> Elihu Vedder was an American symbolist painter, book illustrator, and poet, born in New York City. He is best known for his fifty-five illustrations for Edward FitzGerald\s translation of The Rubaiyat of Omar Khayyam (deluxe edition, published by Houghton Mifflin).
+
+Elihu Vedder was born February 26, 1836 in New York City, the son of Dr. Elihu Vedder Sr. and Elizabeth Vedder. His parents were cousins. His father, a dentist, decided to try his luck in Cuba, and this had a profound impact on Elihu Jr.\s childhood. The remainder of his childhood was spent between his maternal grandfather Alexander Vedder\'s house in Schenectady and a boarding school. His mother supported his goals to be an artist while his father reluctantly assented, convinced that his son should try a different occupation. His brother, Dr. Alexander Madison Vedder, was a Navy surgeon who witnessed the transformation of Japan into a modern culture while he was stationed there.
+
+Vedder trained in New York City with Tompkins H. Matteson, then in Paris with François-Édouard Picot. Finally, he completed his studies in Italy - where he was strongly influenced not only by Italian Renaissance work but also by the modern Macchiaioli painters and the living Italian landscape. He first visited Italy from 1858 until 1860, becoming deeply emotionally attached to fellow painter Giovanni Costa. Their idyllic trips through the Italian countryside were cut short because Vedder\'s father cut off his financial allowance.
+
+Penniless, Vedder returned to the United States during the American Civil War and made a small living undertaking commercial illustrations. He was involved in the bohemian Pfaff\'s coffee house group and painted some of his most memorable paintings notable for their visionary nature, romantic imagery and often Oriental influences. Paintings of this time include \"The Roc\'s Egg\", \"The Fisherman and the Genii and one of his most famous works, Lair of the Sea Serpent. In the United States, Vedder sought out and befriended Walt Whitman, Herman Melville and William Morris Hunt. Vedder became a member of the American Academy of Arts and Letters in 1865. At the end of the Civil War, Vedder left America to live in Italy.
+
+He married Caroline Rosekrans on July 13, 1869 in Glen Falls, New York. Elihu Vedder and his wife had four children, only two of whom survived. His daughter Anita Herriman Vedder played a vital role in handling the business of her father, who was notorious for his general aloofness towards details. Elihu\'s son Enoch Rosekrans Vedder was a promising architect who married jewelry designer Angela Reston. Enoch died while visiting his parents in Italy on April 2, 1916. Elihu had a home in Rome and - after the financial success of his 1884 Rubaiyat work - on the Isle of Capri, then a haven for male aesthetes.
+
+Vedder visited England many times, and was influenced by the Pre-Raphaelites, and was a friend of Simeon Solomon. He was also influenced by the work of English and Irish mystics such as William Blake and William Butler Yeats. In 1890 Vedder helped establish the In Arte Libertas group in Italy.
+
+Tiffany commissioned him to design glassware, mosaics and statuettes for the company. He decorated the hallway of the Reading Room of the Washington Library of Congress, and his mural paintings can still be seen there.
+
+Vedder occasionally returned to the United States, but lived only in Italy from 1906 until his death on January 29, 1923. He is buried in the Protestant Cemetery, Rome. There are no known living descendants of Elihu Vedder as both surviving children died without issue.
+    </string>
+    <string name="back">Back</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
