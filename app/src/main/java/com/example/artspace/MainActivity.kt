@@ -1,9 +1,7 @@
 package com.example.artspace
 
-import android.media.Image
 import android.os.Build
 import android.os.Bundle
-import android.provider.ContactsContract.Data
 import android.view.WindowManager
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -12,39 +10,32 @@ import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.gestures.scrollable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.BottomAppBar
 import androidx.compose.material3.Button
-import androidx.compose.material3.ButtonColors
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
-import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.painterResource
@@ -168,7 +159,6 @@ class MainActivity : ComponentActivity() {
     fun DisplayController(currentArtWork: Int, updateCurrent: (Int) -> Unit) {
         //Home Page section C
 
-        //TODO : Add a buttons for navigation
         Row(
             horizontalArrangement = Arrangement.SpaceEvenly,
             verticalAlignment = Alignment.CenterVertically,
@@ -220,10 +210,8 @@ class MainActivity : ComponentActivity() {
         val artistName = stringResource(id = artistId)
         val yearOfArt = stringResource(id = yearId)
 
-        //TODO 1: Add title of artwork
         Text(text = titleOfArt, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
 
-        //TODO 2: add artist name and year of artwork
         Text(text = "$artistName ($yearOfArt)", fontWeight = FontWeight.Light, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
     }
 
@@ -245,7 +233,7 @@ class MainActivity : ComponentActivity() {
         //Artist Page section A
 
         val current = DataSource.arts[id]
-        //TODO 1: Add artist profile: image, name, and info
+
 
        Scaffold(
            bottomBar = {
@@ -293,7 +281,7 @@ class MainActivity : ComponentActivity() {
         
         //Artist Page section B
         
-        //TODO 2: Artist Bio
+
         
         //Artist Page section C
         //DO NOT MODIFY THE FOLLOWING CODE:
